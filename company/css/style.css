@@ -1,0 +1,16 @@
+body {
+    background-color: #333;
+    color: #ffffff;
+}
+
+.navbar {
+    border-bottom: 4px solid #0c87bc;
+    opacity: .7;
+}
+
+header {
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../images/home.jpg);
+    background-position: center;
+    background-size: cover;
+}
